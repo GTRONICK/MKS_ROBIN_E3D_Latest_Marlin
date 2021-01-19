@@ -1,5 +1,8 @@
 # MKS_ROBIN_E3D_2.0.7.2
-Configuration and BIN file for MKS Robin E3D, for Ender 3
+Configuration and BIN file for MKS Robin E3D, for Ender 3 and BMG (Dual gear with reduction) Extruder.
+Steps setted to: 80 80 400 404.3 
+
+*(Original steps configuration is: 80 80 400 93)*
 
 Based on Marlin 2.0.7.2.
 
@@ -7,7 +10,7 @@ Download the latest version of:
 
 1. Marlin firmware
 2. PlatformIO extension for VSCode
-3. Auto Buil Marlin
+3. Auto Buil Marlin for VSCode
 
 Once installed, go to the left panel of VSCode and clic over the PlatformIO icon.
 
@@ -21,4 +24,4 @@ Use the Configuration.h and Configuration_adv.h as templates for your configurat
 
 Verify the bed dimensions, temperatures and drivers used, otherwise you could damage your printer. 
 The included Robin_e3d.bin file, is a ready to flash file, just put it in your SD Card, insert the
-SD card in the board, and poweron. The flash process will start automatically. 
+SD card in the board, and power on. The flash process will start automatically. 
