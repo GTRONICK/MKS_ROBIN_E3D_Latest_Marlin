@@ -1,6 +1,9 @@
 # MKS_ROBIN_E3D_2.0.7.2
-Configuration and BIN file for MKS Robin E3D, for Ender 3 and BMG (Dual gear with reduction) Extruder.
-Steps setted to: 80 80 400 404.3 
+Configuration and BIN file for MKS Robin E3D for:
+- Ender 3.
+- BMG (Dual gear with reduction) Extruder.
+- TMC2209 stepper drivers.
+- Steps setted to: 80 80 400 404.3 
 
 *(Original steps configuration is: 80 80 400 93)*
 
