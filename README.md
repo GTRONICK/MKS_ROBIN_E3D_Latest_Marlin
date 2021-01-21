@@ -17,6 +17,8 @@ Based on Marlin 2.0.7.2.
 - Save settings (Saves to SD Card)
 - Custom speeds for load and unload filament
 
+# Instructions
+
 Download the latest version of:
 
 1. Marlin firmware
