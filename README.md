@@ -9,6 +9,14 @@ Configuration and BIN file for MKS Robin E3D for:
 
 Based on Marlin 2.0.7.2.
 
+# Especial settings
+
+- Change filament
+- Load filament
+- Unload filament
+- Save settings (Saves to SD Card)
+- Custom speeds for load and unload filament
+
 Download the latest version of:
 
 1. Marlin firmware
