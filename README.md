@@ -1,4 +1,4 @@
-# MKS_ROBIN_E3D_2.0.7.2
+# MKS_ROBIN_E3D_2.0.9.3
 Configuration and BIN file for MKS Robin E3D for:
 - Ender 3.
 - BMG (Dual gear with reduction) Extruder.
@@ -7,7 +7,7 @@ Configuration and BIN file for MKS Robin E3D for:
 
 *(Original steps configuration is: 80 80 400 93)*
 
-Based on Marlin 2.0.7.2.
+Based on Marlin 2.0.9.3.
 
 # Especial settings
 
@@ -23,15 +23,15 @@ Download the latest version of:
 
 1. Marlin firmware
 2. PlatformIO extension for VSCode
-3. Auto Buil Marlin for VSCode
+3. Auto Build Marlin for VSCode
 
 Once installed, go to the left panel of VSCode and clic over the PlatformIO icon.
 
-Go to Quick Access -> Platforms
+Go to Quick Access -> Updates -> Platform updates
 
 Update all items available for update
 
-Use the Configuration.h and Configuration_adv.h as templates for your configuration. 
+Use the Configuration.h and Configuration_adv.h as templates for your configuration. Try to use Meld (Linux) or WinMerge (Windows) for file comparision between you current configuration files and the ones provided here to make it easier to check the changes, this is optional tough.
 
 **Be careful!**
 
