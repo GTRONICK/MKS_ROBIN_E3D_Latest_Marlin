@@ -16,6 +16,7 @@ Based on Marlin 2.0.9.3.
 - Unload filament
 - Save settings (Saves to SD Card)
 - Custom speeds for load and unload filament
+- Pause print issue resolved
 
 # Instructions
 
