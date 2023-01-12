@@ -1,4 +1,4 @@
-# MKS_ROBIN_E3D_2.0.9.5
+# MKS_ROBIN_E3D_2.1.2
 Configuration and BIN file for MKS Robin E3D for:
 - Ender 3.
 - BMG (Dual gear with reduction) Extruder.
@@ -8,7 +8,7 @@ Configuration and BIN file for MKS Robin E3D for:
 You can also test by changing the steps/mm in the configuration menu directly in the printer, until you get the desired calibration.
 *(Original steps configuration is: 80 80 400 93)*
 
-Based on Marlin 2.0.9.5.
+Based on Marlin 2.1.2
 
 # Especial settings
 
@@ -17,7 +17,7 @@ Based on Marlin 2.0.9.5.
 - Unload filament
 - Save settings (Saves to SD Card)
 - Custom speeds for load and unload filament
-- Pause print issue resolved
+- Changed acceleration control to suit Ender 3 mechanics and avoid damage
 
 # Instructions
 
