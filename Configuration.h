@@ -175,7 +175,7 @@
 //#define U_DRIVER_TYPE  A4988
 //#define V_DRIVER_TYPE  A4988
 //#define W_DRIVER_TYPE  A4988
-#define E0_DRIVER_TYPE A4988
+#define E0_DRIVER_TYPE TMC2209
 //#define E1_DRIVER_TYPE A4988
 //#define E2_DRIVER_TYPE A4988
 //#define E3_DRIVER_TYPE A4988
@@ -1171,7 +1171,7 @@
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K...]]], E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 202.1 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 404.2 }
 
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
