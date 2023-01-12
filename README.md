@@ -5,7 +5,7 @@ Configuration and BIN file for MKS Robin E3D for:
 - TMC2209 stepper drivers.
 - Steps setted to: 80 80 400 202.1 
 
-You can also test by changin the steps/mm in the configuration menu directly in the printer, until you get the desired calibration.
+You can also test by changing the steps/mm in the configuration menu directly in the printer, until you get the desired calibration.
 *(Original steps configuration is: 80 80 400 93)*
 
 Based on Marlin 2.0.9.5.
