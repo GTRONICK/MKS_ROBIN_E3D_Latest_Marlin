@@ -26,6 +26,7 @@ Download the latest version of:
 1. [Marlin Firmware](https://marlinfw.org/)
 
 Install the following extensions in **VSCode**, or **VSCodium**
+
 2. [ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 3. [platformio.platformio-ide](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
 4. [MarlinFirmware.auto-build](https://marketplace.visualstudio.com/items?itemName=MarlinFirmware.auto-build)
