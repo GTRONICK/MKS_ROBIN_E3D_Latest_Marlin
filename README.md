@@ -1,4 +1,4 @@
-# MKS_ROBIN_E3D_2.1.2
+# MKS_ROBIN_E3D_2.1.2.1
 Configuration and BIN file for MKS Robin E3D for:
 - Ender 3.
 - BMG (Dual gear with reduction) Extruder.
