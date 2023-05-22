@@ -8,7 +8,7 @@ Configuration and BIN file for MKS Robin E3D for:
 You can also test by changing the steps/mm in the configuration menu directly in the printer, until you get the desired calibration.
 *(Original steps configuration is: 80 80 400 93)*
 
-Based on Marlin 2.1.2
+Based on Marlin 2.1.2.1
 
 # Especial settings
 
